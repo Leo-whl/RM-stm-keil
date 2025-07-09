@@ -1,0 +1,35 @@
+gimbal.task.h
+{
+ 速度环；PID
+ 角度环；PID
+
+
+pitch-turn 1or0   （电机正反转）//120
+}
+
+shoot.h
+{
+TRIGGER_SPEED;(低速射击，单发)//57
+continue........（高速射击，连发）//58
+
+}
+
+CAN_receive.h
+
+{
+ID(电机的ID)//31
+}
+
+
+
+chassis_task.h
+{
+速度环PID
+跟随PID  //125~138
+}
+
+chassis_power_control.c
+{
+ power_limit (功率限制)
+ power_buff (急停之类的会产生高功，用于缓冲一下)
+}

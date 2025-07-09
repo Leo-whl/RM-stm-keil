@@ -1,0 +1,41 @@
+CMakeFiles/chassis_first.elf.dir/aaa/task_gimbal.cpp.obj: \
+ E:\desktop\chassis_first\aaa\task_gimbal.cpp \
+ E:\desktop\chassis_first\aaa\task_gimbal.h \
+ E:\desktop\chassis_first\aaa\app.hpp E:\desktop\chassis_first\aaa\app.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS/cmsis_os.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/stdint.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/machine/_default_types.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/features.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/_newlib_version.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/_intsup.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/_stdint.h \
+ E:\desktop\chassis_first\Core\Inc/FreeRTOSConfig.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/timers.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/queue.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/semphr.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/queue.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/event_groups.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/timers.h \
+ E:\desktop\chassis_first\bsp/bsp.h \
+ E:\desktop\chassis_first\bsp/bsp_can.h \
+ E:\desktop\chassis_first\bsp/bsp_delay.h \
+ E:\desktop\chassis_first\bsp/bsp_dwt.h \
+ E:\desktop\chassis_first\bsp/bsp_led.h \
+ E:\desktop\chassis_first\bsp/bsp_uart.h \
+ E:\desktop\chassis_first\aaa\dj6.hpp \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/c++/14.2.1/cstdint \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/c++config.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/os_defines.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v7e-m+fp/hard/bits/cpu_defines.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/c++/14.2.1/pstl/pstl_config.h

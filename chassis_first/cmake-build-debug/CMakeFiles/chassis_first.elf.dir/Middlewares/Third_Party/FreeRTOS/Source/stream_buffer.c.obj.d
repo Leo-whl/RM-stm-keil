@@ -1,0 +1,34 @@
+CMakeFiles/chassis_first.elf.dir/Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c.obj: \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c \
+ D:/CLionToolchains/ArmGUN/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/stdint.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/machine/_default_types.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/features.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/_newlib_version.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/_intsup.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/_stdint.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/string.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/_ansi.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/newlib.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/config.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/machine/ieeefp.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/reent.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/_ansi.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/cdefs.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/_types.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/machine/_types.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/lock.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/_locale.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/strings.h \
+ D:/CLionToolchains/ArmGUN/14.2rel1/arm-none-eabi/include/sys/string.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/FreeRTOS.h \
+ E:\desktop\chassis_first\Core\Inc/FreeRTOSConfig.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/projdefs.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/portable.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/deprecated_definitions.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F/portmacro.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/mpu_wrappers.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/task.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/list.h \
+ E:\desktop\chassis_first\Middlewares\Third_Party\FreeRTOS\Source\include/stream_buffer.h

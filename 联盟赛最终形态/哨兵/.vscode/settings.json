@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "can_receive.h": "c",
+        "pid.h": "c",
+        "cmsis_os.h": "c",
+        "chassis.h": "c",
+        "bsp_can.h": "c",
+        "struct_typedef.h": "c",
+        "dbus_task.h": "c"
+    }
+}

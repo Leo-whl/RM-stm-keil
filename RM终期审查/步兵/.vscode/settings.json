@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "test_task.h": "c",
+        "task.h": "c",
+        "cmsis_os.h": "c",
+        "freertos.h": "c",
+        "can_receive.h": "c",
+        "main.h": "c",
+        "bsp_can.h": "c",
+        "pid.h": "c",
+        "struct_typedef.h": "c",
+        "dbus_task.h": "c",
+        "gimbal_task.h": "c",
+        "chassis_task.h": "c"
+    }
+}
